@@ -9,5 +9,6 @@ require 'pry'
 # }
 
 def get_the_keys(groceries)
-  #code your solution here!
+  dairy: ["milk", "yogurt", "cheese"],
+   vegetable: ["carrots", "broccoli", "cucumbers"],
 end
